@@ -1,0 +1,12 @@
+Ce qui a déjà été fait : 
+1) Les structures de base des tokens - types.hpp
+on a défini :
+- un struct Token 
+- un enum TokenType
+- les types de base :
+
+2) Les mots clés + types du langage - types.hpp 
+
+3) Début de l'analyseur lexical - lexial.cpp
+variables globales : current,last,codeSource..
+fonction : init, next
